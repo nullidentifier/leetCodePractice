@@ -13,18 +13,20 @@ public class LinkedListNode {
 		// TODO Auto-generated method stub
 
 		
-		LinkedListNode head=deleteElement(headNode,3);
-		printLinkedList(head);
+	/*	LinkedListNode head=deleteElement(headNode,3);
+		printLinkedList(head);*/
 		
 	}
 	
 	
-	public static LinkedListNode createLinkedList(int no){
+	/*public static LinkedListNode createLinkedList(int no){
 		
 		if(no>0){
+		LinkedListNode head=new LinkedListNode(4);
 		
 		}
-	}
+		return next;
+	}*/
 
 	
 	//Printing the LinkedList
